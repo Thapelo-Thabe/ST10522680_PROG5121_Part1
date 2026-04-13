@@ -1,10 +1,11 @@
-# Chat Application - Part 1
+# Chat Application - Part 1 
+
 This is a repository, about "Part 1" programming assessment task
 
 ##Student Information
--Name: Thapelo
--Student Number: ST10522680
--Module Code: PROG5121
+- Name: Thapelo
+- Student Number: ST10522680
+- Module Code: PROG5121
 
 ---
 
