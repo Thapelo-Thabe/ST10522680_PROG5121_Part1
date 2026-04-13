@@ -2,7 +2,7 @@
 
 This is a repository, about "Part 1" programming assessment task
 
-## Student Information
+## Student Information:
 - Name: Thapelo
 - Student Number: ST10522680
 - Module Code: PROG5121
@@ -17,13 +17,13 @@ This is a repository, about "Part 1" programming assessment task
 - The third class, is named "Login.java" class. Its main purpose is to check if the all the methods from "Logic.java" work effectively without any errors.
 
 ---
-## Features
+## Features:
 ### Username Vaildation
-Vaildates, if the method inputed matches with the required methods
+Vaildates, if the data inputed matches with the required method
 
 ### Password Vaildation
-Vaildates, if the method inputed matches with the required methods
+Vaildates, if the data inputed matches with the required method
 
 ### Phone number Vaildation
-Vaildates, if the method inputed matches with the required methods
+Vaildates, if the data inputed matches with the required method
 ---
