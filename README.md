@@ -4,6 +4,7 @@ This is a repository, about "Part 1" programming assessment task
 
 ## Student Information:
 - Name: Thapelo
+- Surname: Thabe
 - Student Number: ST10522680
 - Module Code: PROG5121
 
@@ -26,4 +27,5 @@ Vaildates, if the data inputed matches with the required method
 
 ### Phone number Vaildation
 Vaildates, if the data inputed matches with the required method
+
 ---
