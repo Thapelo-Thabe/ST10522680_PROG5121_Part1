@@ -1,0 +1,15 @@
+git add .
+git commit -m "feat: Add Message class with fields and constructor"
+git push origin Part2-SendMessages
+
+git add .
+git commit -m "feat: Add main menu and while loop"
+git push origin Part2-SendMessages
+
+git add .
+git commit -m "feat: Implement Message ID and hash"
+git push origin Part2-SendMessages
+
+git add .
+git commit -m "test: Add Message unit tests"
+git push origin Part2-SendMessages
