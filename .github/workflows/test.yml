@@ -1,15 +1,12 @@
-git add .
-git commit -m "feat: Add Message class with fields and constructor"
-git push origin Part2-SendMessages
-
-git add .
-git commit -m "feat: Add main menu and while loop"
-git push origin Part2-SendMessages
-
-git add .
-git commit -m "feat: Implement Message ID and hash"
-git push origin Part2-SendMessages
-
-git add .
-git commit -m "test: Add Message unit tests"
-git push origin Part2-SendMessages
+# .github/workflows/testJava.yml 
+name: Java CI 
+on: [push]   # runs every time you push to GitHub 
+jobs: 
+build: 
+runs-on: ubuntu-latest 
+steps: - uses: actions/checkout@v3 - name: Set up JDK 
+uses: actions/setup-java@v3 
+with: 
+java-version: '17' 
+distribution: 'temurin' - name: Build and run all tests with Maven 
+run: mvn test   # picks up LoginTest AND MessageTest automatically
